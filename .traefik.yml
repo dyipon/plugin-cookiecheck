@@ -1,0 +1,6 @@
+displayName: plugin-cookiecheck
+type: middleware
+import: github.com/iponcomputer/plugin-cookiecheck
+summary: drop cookieless requests on ddos
+testData:
+  enabled: false
